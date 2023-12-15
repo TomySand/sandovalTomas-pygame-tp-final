@@ -1,0 +1,27 @@
+{
+    "screen_settings": {
+        "screen_width": 800,
+        "screen_height": 600,
+        "FPS": 60
+    },
+    "levels": {
+        "level_1": {
+            "map": "levels/level_01.tmx",
+            "player_pos": [200,200], 
+            "enemies_number": 10,
+            "coins_number": 10
+        },
+        "level_2": {
+            "map": "levels/level_02.tmx",
+            "player_pos": [140,140], 
+            "enemies_number": 10,
+            "coins_number": 15   
+        },
+        "level_3": {
+            "map": "levels/level_03.tmx",
+            "player_pos": [140, 700], 
+            "enemies_number": 20,
+            "coins_number": 25
+        }
+    }
+}
